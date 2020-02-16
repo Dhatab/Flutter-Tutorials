@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\flutter_chat_app\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74e5e505522a3b0823b45f028b5e7745\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\flutter_chat_app\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74e5e505522a3b0823b45f028b5e7745\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\flutter_chat_app\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1a59c7b52d42951dbb26233d0f3a95d6\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\flutter_chat_app\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1a59c7b52d42951dbb26233d0f3a95d6\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\flutter_chat_app\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74e5e505522a3b0823b45f028b5e7745\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\flutter_chat_app\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74e5e505522a3b0823b45f028b5e7745\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\flutter_chat_app\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1a59c7b52d42951dbb26233d0f3a95d6\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\flutter_chat_app\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1a59c7b52d42951dbb26233d0f3a95d6\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\flutter_chat_app\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1a59c7b52d42951dbb26233d0f3a95d6\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\flutter_chat_app\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\74e5e505522a3b0823b45f028b5e7745\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\flutter_chat_app\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1a59c7b52d42951dbb26233d0f3a95d6\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\flutter_chat_app\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\1a59c7b52d42951dbb26233d0f3a95d6\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    }
+]
